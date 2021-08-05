@@ -1,0 +1,6 @@
+/Users/timpie/Desktop/Unity_game_developer/Task1/Task1/bin/Debug/Task1.exe
+/Users/timpie/Desktop/Unity_game_developer/Task1/Task1/bin/Debug/Task1.pdb
+/Users/timpie/Desktop/Unity_game_developer/Task1/Task1/obj/Debug/Task1.csproj.AssemblyReference.cache
+/Users/timpie/Desktop/Unity_game_developer/Task1/Task1/obj/Debug/Task1.csproj.CoreCompileInputs.cache
+/Users/timpie/Desktop/Unity_game_developer/Task1/Task1/obj/Debug/Task1.exe
+/Users/timpie/Desktop/Unity_game_developer/Task1/Task1/obj/Debug/Task1.pdb
